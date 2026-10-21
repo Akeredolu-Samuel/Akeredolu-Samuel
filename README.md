@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Nogofar a campus marketplace 
 - 🌱 I’m currently learning AI and Machine learning 
 - 👯 I’m looking to collaborate on Ai projects 
 - 🤔 I’m looking for help with Hardware
